@@ -394,9 +394,6 @@ Enable verbose logging to debug issues:
 5. Ensure all tests pass
 6. Submit a pull request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
@@ -404,13 +401,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - C++20 standard for modern language features
 - Performance monitoring tools and techniques
 
-## Support
-
-For questions and support:
-- Create an issue on GitHub
-- Check the documentation
-- Review the source code
-
 ---
 
-**Note**: This is a research and development project. For production use, additional testing, security, and compliance measures should be implemented.
+
